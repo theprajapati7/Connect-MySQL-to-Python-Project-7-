@@ -1,0 +1,101 @@
+order_id,product,category,quantity,price,order_date,customer_name,region
+1001,Headphones,Electronics,3,80,2024-10-24,Penny Green,South
+1002,Smartphone,Electronics,12,300,2025-02-09,Terry Marshall,South
+1003,Laptop,Electronics,12,750,2024-12-01,Christine James,West
+1004,Laptop,Electronics,10,750,2025-03-18,Christopher Martin,South
+1005,Laptop,Electronics,9,750,2024-11-05,Tyler Brown,West
+1006,Laptop,Electronics,15,750,2025-03-02,Laurie Lewis,North
+1007,Printer,Electronics,12,150,2024-10-28,Jonathan Miller,West
+1008,Monitor,Electronics,8,200,2024-10-24,Todd Douglas,West
+1009,Notebook,Stationery,2,5,2024-12-19,Miranda Flores,North
+1010,Desk Chair,Furniture,18,120,2024-10-29,Jill Gomez,North
+1011,Monitor,Electronics,16,200,2025-02-28,Kathleen Campbell,West
+1012,Printer,Electronics,10,150,2024-11-21,Robert Rosario,West
+1013,Printer,Electronics,1,150,2025-01-03,James Long,West
+1014,Desk Chair,Furniture,10,120,2025-03-26,William Fuentes,West
+1015,Headphones,Electronics,8,80,2025-01-30,Heather Thomas,West
+1016,Office Table,Furniture,19,350,2025-04-07,Anthony Phillips,West
+1017,Office Table,Furniture,12,350,2024-12-08,Christy Williams,South
+1018,Smartphone,Electronics,10,300,2025-03-23,Kyle Moore,East
+1019,Smartphone,Electronics,19,300,2025-02-01,Derek Farmer,South
+1020,Headphones,Electronics,5,80,2025-04-11,Charles Peterson,South
+1021,Laptop,Electronics,3,750,2025-03-08,Michael Russell,West
+1022,Desk Chair,Furniture,14,120,2024-10-24,Brian Nguyen,North
+1023,Smartphone,Electronics,1,300,2024-11-01,Rebecca Huang,North
+1024,Coffee Mug,Stationery,14,6,2025-01-18,Daniel Kennedy,South
+1025,Office Table,Furniture,20,350,2025-02-28,Robert Deleon,South
+1026,Headphones,Electronics,11,80,2024-12-24,Kathy Carter,North
+1027,Office Table,Furniture,14,350,2024-11-29,Michelle Martin,South
+1028,Printer,Electronics,16,150,2025-03-20,Stephen Elliott,North
+1029,Headphones,Electronics,20,80,2024-12-14,Zachary Morgan,West
+1030,Office Table,Furniture,17,350,2024-11-12,Jordan Johnson,South
+1031,Coffee Mug,Stationery,14,6,2024-10-22,Joseph Sanchez,South
+1032,Coffee Mug,Stationery,20,6,2025-01-30,Cheryl Wallace,South
+1033,Office Table,Furniture,4,350,2025-01-26,Kylie Smith,West
+1034,Headphones,Electronics,6,80,2025-03-12,Christine Barr,West
+1035,Pen Set,Stationery,18,2,2024-12-20,Mallory Newton,North
+1036,Desk Chair,Furniture,9,120,2025-03-07,Jessica Hansen,South
+1037,Monitor,Electronics,8,200,2024-12-20,Steven Beard,South
+1038,Coffee Mug,Stationery,2,6,2024-12-05,Megan Brown,North
+1039,Coffee Mug,Stationery,15,6,2024-12-19,Caitlin Hartman,East
+1040,Headphones,Electronics,7,80,2025-02-22,Katie Moore,East
+1041,Smartphone,Electronics,16,300,2025-02-07,Dr. Thomas Moyer MD,West
+1042,Headphones,Electronics,3,80,2025-01-07,Patricia Franco,North
+1043,Desk Chair,Furniture,11,120,2024-12-31,Cheryl Brown,East
+1044,Smartphone,Electronics,5,300,2025-02-14,Eric Dickerson,South
+1045,Laptop,Electronics,5,750,2025-01-28,Dawn Calderon,West
+1046,Coffee Mug,Stationery,6,6,2025-01-23,Gary Smith,South
+1047,Headphones,Electronics,4,80,2025-04-14,Tiffany Frazier,North
+1048,Headphones,Electronics,15,80,2025-04-01,Dana Strong,West
+1049,Smartphone,Electronics,15,300,2024-10-27,Kenneth Cooper,West
+1050,Coffee Mug,Stationery,4,6,2025-02-02,Erica Lee,East
+1051,Notebook,Stationery,2,5,2025-01-21,Taylor Hopkins,East
+1052,Monitor,Electronics,2,200,2025-02-21,Kimberly Taylor,South
+1053,Pen Set,Stationery,7,2,2024-10-26,Stephanie Massey,West
+1054,Desk Chair,Furniture,10,120,2024-12-30,Michelle Arellano,East
+1055,Notebook,Stationery,16,5,2025-03-01,Nicole Smith,North
+1056,Headphones,Electronics,16,80,2025-01-08,Tara May,South
+1057,Headphones,Electronics,18,80,2025-01-06,Katie Ramirez,South
+1058,Coffee Mug,Stationery,19,6,2025-03-10,Andrew Bowen,South
+1059,Notebook,Stationery,11,5,2024-12-23,Lindsay Jackson,East
+1060,Notebook,Stationery,18,5,2025-01-14,Becky Hall,North
+1061,Monitor,Electronics,7,200,2025-03-03,Sue Logan,East
+1062,Monitor,Electronics,18,200,2024-10-16,Alex Stewart,East
+1063,Office Table,Furniture,20,350,2024-11-04,Lisa Adams,West
+1064,Office Table,Furniture,14,350,2025-01-07,Dustin Harris,West
+1065,Office Table,Furniture,5,350,2024-12-06,Donna Peterson,South
+1066,Laptop,Electronics,9,750,2025-03-23,Douglas Pugh,North
+1067,Coffee Mug,Stationery,7,6,2025-01-09,Andrea Perry,East
+1068,Laptop,Electronics,12,750,2025-02-17,James Lopez,South
+1069,Coffee Mug,Stationery,8,6,2025-01-18,Brad Haynes,South
+1070,Pen Set,Stationery,9,2,2025-02-03,Kevin Brown,West
+1071,Notebook,Stationery,4,5,2024-12-11,Mark Hall,East
+1072,Pen Set,Stationery,3,2,2024-11-13,Billy Sullivan,South
+1073,Desk Chair,Furniture,1,120,2024-12-23,Edward Stein,South
+1074,Printer,Electronics,13,150,2025-01-11,Carol Ingram,West
+1075,Printer,Electronics,14,150,2025-03-19,Juan Walker,North
+1076,Headphones,Electronics,1,80,2025-02-13,Jorge Hicks,West
+1077,Laptop,Electronics,18,750,2025-02-27,Emma Martin,West
+1078,Desk Chair,Furniture,20,120,2025-01-09,Theresa Gallagher,East
+1079,Coffee Mug,Stationery,11,6,2025-03-25,Christian Vega,East
+1080,Desk Chair,Furniture,9,120,2025-03-23,Darlene Smith,North
+1081,Desk Chair,Furniture,20,120,2024-12-23,Frank Gutierrez,West
+1082,Laptop,Electronics,3,750,2025-01-14,Sara Anderson,East
+1083,Printer,Electronics,7,150,2024-10-30,Brian Cooper,West
+1084,Monitor,Electronics,9,200,2024-12-17,Larry Vazquez,South
+1085,Notebook,Stationery,19,5,2024-10-31,Justin Stevens,West
+1086,Printer,Electronics,6,150,2025-02-17,James Walters,North
+1087,Printer,Electronics,4,150,2025-03-22,Randy Blanchard,West
+1088,Notebook,Stationery,4,5,2024-11-30,Jennifer House,West
+1089,Monitor,Electronics,19,200,2025-03-14,Cindy Mosley,South
+1090,Office Table,Furniture,20,350,2025-01-04,Janet Berry,South
+1091,Laptop,Electronics,15,750,2024-12-24,Taylor Edwards,South
+1092,Printer,Electronics,14,150,2024-12-16,Tyler Foley,East
+1093,Office Table,Furniture,15,350,2025-03-22,Stephanie Brown,North
+1094,Smartphone,Electronics,14,300,2025-03-21,Stephanie Collins,West
+1095,Desk Chair,Furniture,6,120,2024-12-26,Sandy Bass,North
+1096,Printer,Electronics,16,150,2024-12-04,Joshua Lawrence,East
+1097,Smartphone,Electronics,8,300,2025-04-04,Diane Arroyo,North
+1098,Smartphone,Electronics,15,300,2025-01-31,Nancy Watson,South
+1099,Office Table,Furniture,9,350,2025-03-25,Christy Velazquez,North
+1100,Laptop,Electronics,15,750,2024-12-11,Kimberly Flores,South
